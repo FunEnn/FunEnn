@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunEnn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunEnn)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FunEnn)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=FunEnn&left_color=green&right_color=red)
