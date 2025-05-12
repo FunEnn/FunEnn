@@ -10,13 +10,10 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunEnn&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
   </div>
 
-  <!-- LeetCode 统计 -->
-  <img height="170em" src="https://leetcard.jacoblin.cool/shi-wu-i-c?theme=dark&font=Adamina&ext=heatmap&site=cn"/>
-
   <!-- 技能图标 -->
   <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> 技术栈</h3>
   
-  <img src="https://skillicons.dev/icons?i=java,cpp,javascript,html,css,vue,react,nodejs,mysql,mongodb,git,next&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,vue,react,nodejs,mysql,mongodb,git,next&perline=6&theme=dark" />
 
   <!-- 联系方式 -->
   <h3>📫 联系我</h3>
